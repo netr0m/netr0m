@@ -17,9 +17,6 @@ netr0m:
 </div> -->
 
 <hr>
-<link href="http://fonts.cdnfonts.com/css/major-mono-display-2" rel="stylesheet">
-
-<p style="font-family: 'Major Mono Display', sans-serif;">hello sadness old friend</p>
 
 `tools:`
 
