@@ -1,11 +1,19 @@
+<!-- <pre lang="yaml" width="10px">
+ netr0m:
+  areas:
+  - sec
+  - dev
+  - devops
+</pre> -->
+
 ```yaml
 netr0m:
- areas:
-   - sec
-   - dev
-   - devops
+  areas:
+  - sec
+  - dev
+  - devops
 ```
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netr0m&hide=html,css&theme=github_dark&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netr0m&hide=html,css&theme=github_dark&hide_border=true&layout=compact" />
 
 <!-- <div>
  <a>
