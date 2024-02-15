@@ -2,7 +2,7 @@
 netr0m:
   domains:
    - sec
-   - sec
+   - dev
    - dev[sec]ops
    - sysops
 
